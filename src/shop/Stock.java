@@ -1,7 +1,6 @@
 package shop;
 
 import java.util.Iterator;
-import java.util.List;
 import java.util.Vector;
 
 public class Stock extends Vector<Product> {
@@ -16,6 +15,5 @@ public class Stock extends Vector<Product> {
 		}
 		return sBuilder.toString();
 	}
-		
 
 }

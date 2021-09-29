@@ -10,5 +10,7 @@ public class FoodProduct extends Product {
 		super(name, quantity);
 		this.limitDate = limitDate;
 	}
+	
+	
 
 }

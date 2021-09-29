@@ -2,7 +2,7 @@ package shop;
 
 import java.util.UUID;
 
-public class Product {
+public abstract class Product {
 	private String name;
 	private UUID id;
 	private int quantity;
